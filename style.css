@@ -11,7 +11,7 @@ html {
 }
 
 body{
-    height: 180vh;
+    height: 210vh;
     width: 100%;
     font-family:  'Poppins', sans-serif;
     background-color:#24144C ;
@@ -40,7 +40,7 @@ img::selection {
 
 .back {
     width: 100%;
-    height: 200vh;
+    height: 210vh;
     overflow: hidden;
     position: relative;
 }
@@ -219,7 +219,7 @@ img::selection {
 
 .bg{
     width: 100%;
-    height: 200vh;
+    height: 210vh;
     background-color: #24144c5d;
     backdrop-filter: blur(50px);
 }
